@@ -35,7 +35,7 @@ namespace PizzaApp.Controllers
                 return NotFound();
             }
 
-            return Ok(idGotowaPizza);
+            return Ok(pizzaCala);
         }
 
     }
